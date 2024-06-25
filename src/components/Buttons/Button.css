@@ -1,0 +1,20 @@
+.div-button{
+    text-align: center;
+}
+
+.see-all-button {
+    margin: 20px;
+    background-color: white;
+    border: 2px solid #000;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.see-all-button:hover{
+    background-color: #000000;
+    color: white;
+
+}
